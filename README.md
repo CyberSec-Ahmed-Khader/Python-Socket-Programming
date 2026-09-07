@@ -24,6 +24,7 @@ The project demonstrates communication between a client and server over a networ
 
 ## Project Structure
 
+```text
 Python-Socket-Programming/
 │
 ├── server.py
