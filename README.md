@@ -1,24 +1,100 @@
-# 🐍 Python Socket Programming - Remote Command Execution
+# 👋 Hi, I'm Ahmed Khader
 
-A lightweight Client-Server application written in Python that enables remote command execution over a TCP network connection.
+🎓 **Cybersecurity Student @ University College of Applied Sciences (UCAS)**
 
-## 📌 Overview
-This project demonstrates fundamental concepts of network programming, socket connections, and client-server architecture using Python's built-in `socket` module.
+I am a first-year Cybersecurity student interested in cybersecurity, networking, linux, programming, and practical security learning.
 
-## 🛠️ Features
-- **TCP Connection:** Reliable communication between client and server.
-- **Remote Command Execution:** Client sends system commands to the server and receives the output.
-- **Error Handling:** Graceful handling of connection breaks and invalid inputs.
+I focus on building a strong technical foundation through academic projects, hands-on labs, and continuous learning.
 
-## 🧰 Built With
-- **Python 3.x**
-- **Sockets Library** (`socket` standard library)
-- **OS/Subprocess Module** (`os`, `subprocess`)
+---
 
-## 🚀 How to Run
+### 📍 Cybersecurity Focus
 
-1. **Clone the repository:**
-   ```bash
-git clone [https://github.com/CyberSec-Ahmed-Khader/Simple-Python-PortScanner.git](https://github.com/CyberSec-Ahmed-Khader/Simple-Python-PortScanner.git)
-cd Simple-Python-PortScanner
-python scanner.py
+- 🛡️ Cybersecurity Fundamentals
+- 🌐 Computer Networking
+- 🐧 Linux
+- 🐍 Python
+- ☕ Java
+- 📡 Network Analysis
+- 💻 Command Line
+- 🧪 Practical Security Labs
+
+---
+
+### 🛠️ Skills & Tools
+
+#### Programming
+- Python — Developing
+- Java — Proficient
+
+#### Networking & Security
+- Networking — Developing
+- Cybersecurity Fundamentals
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+
+#### Operating Systems & Tools
+- Linux — Developing
+- Command Line — Developing
+
+#### Other Skills
+- Problem Solving — Strong
+- Technical Research — Developing
+- English — Good
+
+---
+
+### 📚 Currently Learning
+
+- Cybersecurity Fundamentals
+- Network Security
+- Linux
+- Python
+- Network Analysis
+- Security Tools & Methodologies
+
+---
+
+### 🚀 MY Projects
+
+#### 🐍 Python Socket Programming
+A Python-based client-server remote command execution project developed using socket programming.  
+**Technologies:** Python • Socket Programming • Client-Server Architecture
+
+---
+
+#### 🌐 Medium-Scale Network Design
+A medium-scale network design and implementation project developed using Cisco Packet Tracer.  
+The network includes multiple routers, switches, end devices, and servers with a central/core router connecting the network segments.  
+**Technologies:** Cisco Packet Tracer • Networking
+
+---
+
+#### ✈️ Gaza International Airport System
+An academic software project developed using Java.  
+**Technology:** Java
+
+---
+
+#### 💻 Cybersecurity Portfolio
+My personal cybersecurity portfolio showcasing my projects, technical skills, academic work, and learning journey.  
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+### 🎯 Learning Journey
+
+Programming  
+↓  
+Computer Networking  
+↓  
+Linux & Command Line  
+↓  
+Python  
+↓  
+Network Analysis  
+↓  
+Cybersecurity Fundamentals  
+↓  
+Practical Cybersecurity
