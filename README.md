@@ -19,5 +19,4 @@ This project demonstrates fundamental concepts of network programming, socket co
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/CyberSec-Ahmed-Khader/Python-Socket-Programming.git](https://github.com/CyberSec-Ahmed-Khader/Python-Socket-Programming.git)
-   cd Python-Socket-Programming
+[https://github.com/CyberSec-Ahmed-Khader/Simple-Python-PortScanner](https://github.com/CyberSec-Ahmed-Khader/Simple-Python-PortScanner)
